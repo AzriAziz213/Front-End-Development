@@ -9,3 +9,5 @@ This repo will contain projects that I have done related to front end developmen
 + Node.js
 + Web development with API
 + React.js
+
+# View the output here: https://azriaziz213.github.io/Front-End-Development/
