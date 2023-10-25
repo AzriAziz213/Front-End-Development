@@ -5,7 +5,6 @@ This repo will contain projects that I have done related to front end developmen
 + HTML
 + CSS
 + Javascript
-+ ES6
 + Node.js
 + Web development with API
 + React.js
